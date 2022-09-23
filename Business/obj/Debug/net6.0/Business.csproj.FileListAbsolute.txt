@@ -1,0 +1,5 @@
+C:\Users\Ventura\source\repos\Ventura_Semana05\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Ventura\source\repos\Ventura_Semana05\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ventura\source\repos\Ventura_Semana05\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ventura\source\repos\Ventura_Semana05\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Ventura\source\repos\Ventura_Semana05\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
